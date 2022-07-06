@@ -1,4 +1,4 @@
-# attempting to enter file into sql database
+-- attempting to enter file into sql database
 BULK INSERT dbo.demo
   FROM '/Users/osmanhaji/Desktop/sample-text-file.txt'
   WITH  
