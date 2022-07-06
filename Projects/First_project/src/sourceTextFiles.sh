@@ -8,4 +8,3 @@ var=`ls -l sample-text-file.txt | awk '{print $5}'`
 
 #store line count
 var=`wc sample-text-file.txt | awk '{print $1}'`
-`
