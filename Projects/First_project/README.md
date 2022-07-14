@@ -7,6 +7,9 @@
 Bash script to download text files and insert into and read from a SQL database  
 
 ### Project outline
+
+---
+
 I am beginning with a [tutorial](https://bit.ly/3bTmam0) on bash scripting to understand the syntax.
 
 Following this I will use SQL to create and add data to tables as well as retrieve said data from the tables and return it to user.
@@ -15,4 +18,7 @@ Finally I will create a script to do this while checking for failure at each sta
 
 
 ### Credits
+
+---
+
 Bash scripting tutorial from [FreeCodeCamp](https://bit.ly/3bTmam0)
