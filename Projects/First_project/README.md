@@ -1,7 +1,7 @@
 ## Bash Scripting
 
 
-![Project Architecture](/assets/project_architecture.png)
+![Project Architecture](Projects/First_project/assets/project_architecture.png)
 
 ### Project Description
 Bash script to download text files and insert into and read from a SQL database  
