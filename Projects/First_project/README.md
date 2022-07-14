@@ -1,7 +1,7 @@
 ## Bash Scripting
 
 
-![Project Architecture](/assets/project_architecture.png)
+<img src="https://raw.githubusercontent.com/Ozzywap/DataEngineering/creatingReadMe/Projects/First_project/assets/project_architecture.png" alt= "Project Architecture" width="600" height="350">
 
 ### Project Description
 Bash script to download text files and insert into and read from a SQL database  
