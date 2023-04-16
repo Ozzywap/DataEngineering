@@ -1,6 +1,6 @@
 -- attempting to enter file into sql database
 BULK INSERT dbo.demo
-  FROM '/Users/osmanhaji/Desktop/sample-text-file.txt'
+  FROM '~/Desktop/sample-text-file.txt'
   WITH  
      (
         ROWTERMINATOR ='\n'
@@ -17,7 +17,7 @@ GO
  
 
 BULK INSERT demo.Actors
-FROM '/Users/osmanhaji/Desktop/actor.csv'
+FROM '~/Desktop/actor.csv'
 WITH
 (
         FORMAT='CSV',
